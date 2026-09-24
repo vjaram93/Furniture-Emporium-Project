@@ -1,0 +1,30 @@
+body {
+  background-image: url(wallpaper.jpg);
+  background-repeat: repeat;
+}
+h1 {
+  text-align: center;
+}
+.bold-intro {
+  font-weight: bold;
+}
+article {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #fffaf0;
+  width: 300px;
+  border: 4px dotted #800080;
+  padding: 20px;
+  margin: 30px;
+}
+.button-style {
+  background-color: #d4c4d3;
+}
+.button-style:hover {
+  background-color: #295b56;
+  color: #ffffff;
+  cursor: pointer;
+}
+s {
+  color: #9e0000;
+}
